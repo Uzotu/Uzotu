@@ -24,3 +24,4 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Uzotu/Uzotu/output/snake.svg" alt="Snake animation" />
